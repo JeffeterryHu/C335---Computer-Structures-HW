@@ -11,6 +11,6 @@ void main(){
 		f = fopen(name,"w");
 		fclose(f);
 		i++;
-		sleep(3);
+		sleep(1);
 	}
 }
