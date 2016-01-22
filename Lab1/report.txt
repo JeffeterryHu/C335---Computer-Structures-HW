@@ -1,6 +1,12 @@
 Name: Shichao Hu
 Username: hushi
 
-I successfully set up the SSH key
+During the lab, I setted up the SSH key and made my own repository. Also, worked on the simple program "hello world" and the "icebreaker" with partner. I figured out how to use sleep function and the required library "unistd.h".
+
+I worked through all the steps for Lab 1 except step 2. I would probably use "Vim" or "Notepad++" as my C language editor.
+
+With my partner, we had a problem at the beginning when we try to produce a random file every 3 seconds on desktop for the "icebreaker" program. We tried to look up the functions which can help us on this problem, then finally the "sprintf" function solved the problem successfully.
+
+
 
 
