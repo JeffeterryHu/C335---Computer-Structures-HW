@@ -1,0 +1,24 @@
+/* report.txt
+ *
+ * Name: Shichao Hu / Username: hushi
+ *
+ * Date Created: 1/23/2016
+ * Last Modified by: Shichao Hu
+ * Date Last Modified: 1/28/2016
+ * Assignment: lab report
+ * Part of: Lab2
+ */
+
+During the lab, I finished the the first part of the lab which is the word count program and tested on the given haiku poem, it works fine.
+
+The second part of lab 2 is my version of myprint.c, I finished it during this week and also the test.c file. And overall, I finished all the problems in Lab2.
+
+The first problem I encounted is how to count the space and lines in the word count program, then asked AI about this and finished this problem. Also, the EOF in stdio library confused me at the beginning.
+
+Another problem is when I working on the myprintf.c, it needs just several lines of code to make it work, but I have no idea why the entire program works.
+
+I have learned many different libraries in C besides stdio library, and the basic application of those libraries.
+
+ 
+
+
