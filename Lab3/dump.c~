@@ -1,0 +1,11 @@
+//
+// dump.c
+//
+
+void dump_memory(void *p, int len){
+      	int i;
+
+      	for (i = 0; i < len; i++) {
+        	printf("%8p %c %08x %10d %10u %10e\n", p + i, *(unsigned char *)(p + i), *(unsigned char *)(p + i), *(unsigned char *)(p + i), *(unsigned char *)(p + i), *(unsigned char *)(p + i));
+      	}
+}

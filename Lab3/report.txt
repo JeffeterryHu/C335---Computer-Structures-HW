@@ -1,0 +1,16 @@
+/* report.txt
+ *
+ * Name: Shichao Hu / Username: hushi
+ * Partner: Bradley Vine
+ * Date Created: 1/23/2016
+ * Last Modified by: Shichao Hu
+ * Date Last Modified: 1/28/2016
+ * Assignment: lab report
+ * Part of: Lab3
+ */
+
+We accomplished everthing which is required for the lab3, worked seperately on the first two parts and then together on the dump.c file.
+
+The most difficult part is how to print out the chars, ints, hex, etc. After looking at the hint in the instruction and searched on internet, we did overcome them. And also the alignment is kind of annoying, it takes sometime to do that.
+
+I have learned many different types of printf and some gdb commands as well. The Makefile is also a new thing to learn and I think it is really powerful and convenient to use. 
