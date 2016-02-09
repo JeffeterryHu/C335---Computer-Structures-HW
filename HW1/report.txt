@@ -1,0 +1,21 @@
+1. Address and size of global variable state.
+
+	
+
+2. Address and size of global variable state_counter. 
+
+
+
+3. Starting address and size of function stop_light(). 
+
+
+
+4. Starting address and size of function inc().
+
+
+
+5. Largest function in the executable HW1.elf.
+
+
+
+6. Overall size of the executable HW1.elf in bytes.
