@@ -1,3 +1,15 @@
+/* output.txt
+ *
+ * Name: Shichao Hu
+ * Username: hushi
+ * Date Created: 2/7/2016
+ * Last Modified by: Shichao Hu
+ * Date Last Modified: 2/9/2016
+ * Part of: HW1
+ */
+
+
+
 pulseaudio: set_sink_input_volume() failed
 pulseaudio: Reason: Invalid argument
 pulseaudio: set_sink_input_mute() failed
