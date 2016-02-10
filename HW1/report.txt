@@ -1,21 +1,40 @@
+using command: arm-none-eabi-nm --print-size HW1.elf , we can get answers for the following question
+
 1. Address and size of global variable state.
 
-	
+	Address: 00012fe8
+
+	size(hex): 00000004
+
+	size(binary): 0000 0000 0000 0000 0000 0000 0000 0100
 
 2. Address and size of global variable state_counter. 
 
+	Address: 00012fec
 
+	size(hex): 00000004
+
+	size(binary): 0000 0000 0000 0000 0000 0000 0000 0100
 
 3. Starting address and size of function stop_light(). 
 
+	Starting address: 00008af8
+	
+	size(hex): 00000090
 
+	size(binary): 0000 0000 0000 0000 0000 0000 1001 0000
 
 4. Starting address and size of function inc().
 
+	Starting address: 00008ba4
 
+	size: no size found
 
 5. Largest function in the executable HW1.elf.
 
-
+	Largest function: malloc_r
 
 6. Overall size of the executable HW1.elf in bytes.
+
+	Overall size: text    data     bss     dec     hex   filename
+   		      9656    2404     268   12328    3028   HW1.elf
