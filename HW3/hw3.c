@@ -5,7 +5,7 @@
  * Part of: Homework3
  */
 
-#include "stdio.h"
+#include <stdio.h>
 
 #define ExtractOpname1(x)(0x1 & x >> 9) //macro of getting opname1
 #define ExtractOpname2(x)(0x4 & x >> 6) //macro of getting opname2
@@ -25,18 +25,18 @@ int main() {
 
 	while(scanf("%x", &inst) == 1)
 	{
-		switch(inst)
+		switch(inst>>10)
 		{
 			case 6:
 				printf(" %s, %s, %s, %s \n", opname1[ExtractOpname1(inst)], regnames[ExtractRd(inst)], regnames[ExtractRn(inst)], regnames[ExtractRm(inst)]);
 				break;
 			case 16:
-				printf(" %s, %s, %s\n", opname2[ExtractOpname2(inst)], renames[ExtractRdn(inst)], regnames[ExtractRm(inst)]);
+				printf(" %s, %s, %s\n", opname2[ExtractOpname2(inst)], regnames[ExtractRdn(inst)], regnames[ExtractRn(inst)]);
 				break;
 			default:
-				printf("0x%x\n", inst);
+				printf("wrong");
+				//printf("0x%x\n", inst);
 				break;
 		}
 	}
-	return 0;
 }
