@@ -1,28 +1,14 @@
 /* machine.h --- 
- * 
+ *
+ * Shichao Hu
+ *
  * Filename: machine.h
  * Description: 
  * Author: Bryce Himebaugh
  * Maintainer: 
  * Created: Thu Oct  8 12:40:51 2015
- * Last-Updated: 
- *           By: 
- *     Update #: 0
- * Keywords: 
- * Compatibility: 
- * 
  */
 
-/* Commentary: 
- * 
- * 
- * 
- */
-
-/* Change log:
- * 
- * 
- */
 
 /* Copyright (c) 2015 The Trustees of Indiana University and 
  * Indiana University Research and Technology Corporation.  
@@ -43,5 +29,6 @@ void ands(int, int);
 void bics(int, int);
 void lsls(int, int);
 void asrs(int, int);
+void adcs(int, int);
 
 /* machine.h ends here */

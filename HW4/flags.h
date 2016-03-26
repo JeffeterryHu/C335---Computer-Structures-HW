@@ -2,34 +2,9 @@
  * 
  * Filename: flags.h
  * Description: 
- * Author: Bryce Himebaugh
- * Maintainer: 
- * Created: Fri Oct  9 13:40:16 2015
- * Last-Updated: 
- *           By: 
- *     Update #: 0
- * Keywords: 
- * Compatibility: 
- * 
- */
-
-/* Commentary: 
- * 
- * 
- * 
- */
-
-/* Change log:
- * 
- * 
- */
-
-/* Copyright (c) 2015 The Trustees of Indiana University and 
- * Indiana University Research and Technology Corporation.  
- * 
- * All rights reserved. 
- * 
- * Additional copyrights may follow 
+ * Author: Shichao Hu
+ * Created: 3/23/2016
+ * Last-Updated: 3/24/2016
  */
 
 /* Code: */
